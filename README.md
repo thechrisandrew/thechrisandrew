@@ -11,24 +11,24 @@ My name is Christopher Andrew. I'm a Computer Science student majoring Cyber Sec
 ## Tools & Technologies:
 
 <div style="white-space:nowrap;">
-    <img height="35" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
-    <img height="35" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
-    <img height="35" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-    <img height="35" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
-    <img height="35" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
-    <img height="35" style="margin: 5px" src="./assets/nextdotjs.svg" alt="NextJS"/>
-    <img height="35" style="margin: 5px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind"/>
+    <img height="35" style="padding-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
+    <img height="35" style="padding-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
+    <img height="35" style="padding-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+    <img height="35" style="padding-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
+    <img height="35" style="padding-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+    <img height="35" style="padding-right: 8px" src="./assets/nextdotjs.svg" alt="NextJS"/>
+    <img height="35" style="padding-right: 8px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind"/>
     <br />
-    <img height="35" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/>
-    <img height="35" style="margin: 5px" src="./assets/express.svg" alt="Express"/>
-    <img height="35" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL"/>
-    <img height="35" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+    <img height="35" style="padding-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/>
+    <img height="35" style="padding-right: 8px" src="./assets/express.svg" alt="Express"/>
+    <img height="35" style="padding-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL"/>
+    <img height="35" style="padding-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
     <br />
-    <img height="35" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-    <img height="35" style="margin: 5px" src="./assets/github.svg"/>
-    <img height="35" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
-    <img height="35" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    <img height="35" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+    <img height="35" style="padding-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+    <img height="35" style="padding-right: 8px" src="./assets/github.svg"/>
+    <img height="35" style="padding-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
+    <img height="35" style="padding-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <img height="35" style="padding-right: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
 </div>
 <br/>
 
