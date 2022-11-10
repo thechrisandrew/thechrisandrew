@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Christopher Andrew. I'm a Computer Science student majoring Cyber Security at Bina Nusantara University](http://binus.ac.id/). I really enjoy web-development whether it is Front-end, Back-end, or even DevOps Engineering.
+My name is Christopher Andrew. I'm a Computer Science student majoring Cyber Security at [Bina Nusantara University](http://binus.ac.id/). I really enjoy web-development whether it is Front-end, Back-end, or even DevOps Engineering.
 
 ## Connect:
 
